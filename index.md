@@ -1,10 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title:  Overview
 ---
 
 [CoderDojo本町](http://coderdojo-hommachi.doorkeeper.jp/ ) は **子どものためのプログラミング道場** です。
+
+![d4k]({{ site.baseurl }}/assets/img/d4k.png)
 
 ## CoderDojo
 
