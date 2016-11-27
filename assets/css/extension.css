@@ -5,3 +5,19 @@
 body {
   font-size: 20px;
 }
+
+.share-btns {
+  margin-top: 40px;
+}
+
+.share-btns::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.share-btn {
+  float: left;
+  margin-right: 16px;
+  line-height: 1;
+}
