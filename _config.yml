@@ -4,3 +4,5 @@ markdown: kramdown
 name: CoderDojo本町
 copyright: 2016, CoderDojo Hommachi
 themes: paper
+
+exclude: [vendor]
