@@ -1,0 +1,9 @@
+{
+  "name": "coderdojo-hommachi.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "bundle exec jekyll server -w",
+    "setup": "bundle install"
+  }
+}
