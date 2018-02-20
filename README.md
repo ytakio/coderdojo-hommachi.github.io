@@ -5,8 +5,8 @@
 ```
 $ git clone https://github.com/coderdojo-hommachi/coderdojo-hommachi.github.io.git
 $ cd coderdojo-hommachi.github.io/
-$ yarn setup
-$ yarn start
+$ npm setup
+$ npm start
 ```
 
 ## Usage
