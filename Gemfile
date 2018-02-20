@@ -22,4 +22,3 @@ gem "minima"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
-gem 'ffi','1.9.18'
