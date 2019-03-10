@@ -1,0 +1,9 @@
+<svg id="レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" width="13.08mm" height="13.08mm" viewBox="0 0 37.08 37.08">
+  <title>logo_side</title>
+  <circle cx="18.54" cy="18.54" r="18.43" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.22674418604649993px"/>
+  <circle cx="18.54" cy="18.54" r="15.82" style="fill: none;stroke: #ed86b3;stroke-miterlimit: 10;stroke-width: 0.5581395348836399px"/>
+  <path d="M70.86,86.47a15.82,15.82,0,1,0,0-31.64,7.91,7.91,0,0,1,0,15.82,7.91,7.91,0,0,0,0,15.82Z" transform="translate(-52.32 -52.11)" style="fill: #ed86b3;stroke: #ed86b3;stroke-miterlimit: 10;stroke-width: 0.39999999999994046px"/>
+  <path d="M70.86,54.83a15.82,15.82,0,0,0,0,31.64,7.91,7.91,0,0,1,0-15.82,7.91,7.91,0,0,0,0-15.82Z" transform="translate(-52.32 -52.11)" style="fill: #fff;stroke: #ed86b3;stroke-miterlimit: 10;stroke-width: 0.27906976744181994px"/>
+  <path d="M73.57,62.73c0,2.33-.89,3.57-2.51,3.57s-2.52-1.23-2.52-3.59.89-3.53,2.53-3.53S73.57,60.35,73.57,62.73Zm-4.18,0c0,1.86.55,2.82,1.67,2.82s1.67-1,1.67-2.82-.54-2.78-1.66-2.78S69.39,60.87,69.39,62.72Z" transform="translate(-52.32 -52.11)" style="fill: #ed86b3;stroke: #ed86b3;stroke-miterlimit: 10;stroke-width: 0.07848837209301074px"/>
+  <path d="M72.26,81.73a.39.39,0,0,1-.44.39.37.37,0,0,1-.42-.38V76.12c0-.2-.05-.28-.24-.28h0l-.86,0h0a.4.4,0,0,1-.4-.41.41.41,0,0,1,.4-.43l1.16,0h.08c.6,0,.76.2.76.86Z" transform="translate(-52.32 -52.11)" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 0.07848837209301715px"/>
+</svg>
