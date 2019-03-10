@@ -28,6 +28,16 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet
+          title={"CoderDojo Osakasayama / Honmachi"}
+          meta={[
+            {
+              property: "og:image",
+              content:
+                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/logo.png",
+            },
+          ]}
+        />
         <Helmet title="CoderDojo Osakasayama / Honmachi" />
 
         <Header />
