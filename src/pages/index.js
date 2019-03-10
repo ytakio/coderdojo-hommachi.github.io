@@ -29,16 +29,16 @@ class Index extends React.Component {
     return (
       <Layout>
         <Helmet
-          title={"CoderDojo Osakasayama / Honmachi"}
+          title={"CoderDojo Osakasayama / Hommachi"}
           meta={[
             {
               property: "og:image",
               content:
-                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/logo.png",
+                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/og.png",
             },
           ]}
         />
-        <Helmet title="CoderDojo Osakasayama / Honmachi" />
+        <Helmet title="CoderDojo Osakasayama / Hommachi" />
 
         <Header />
 

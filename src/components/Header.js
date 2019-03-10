@@ -11,7 +11,7 @@ const Header = props => (
       </Link>
     </span>
     <h1>CoderDojo</h1>
-    <p>Osakasayama / Honmachi</p>
+    <p>Osakasayama / Hommachi</p>
   </header>
 )
 

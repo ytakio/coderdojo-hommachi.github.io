@@ -41,7 +41,9 @@
   },
   "keywords": [
     "gatsby",
-    "coderdojo"
+    "coderdojo",
+    "osakasayama",
+    "hommachi"
   ],
   "scripts": {
     "build": "gatsby build",

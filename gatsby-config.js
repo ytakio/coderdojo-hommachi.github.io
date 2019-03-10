@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `CoderDojo Osakasayama / Honmachi`,
-    author: `CoderDojo Osakasayama / Honmachi`,
+    title: `CoderDojo Osakasayama / Hommachi`,
+    author: `CoderDojo Osakasayama / Hommachi`,
     description: `CoderDojo 大阪狭山 / 本町`,
     siteUrl: `https://coderdojo-hommachi.github.io/`,
   },
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `CoderDojo Osakasayama / Honmachi`,
+        name: `CoderDojo Osakasayama / Hommachi`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
