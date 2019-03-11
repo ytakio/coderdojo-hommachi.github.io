@@ -1,5 +1,5 @@
 ---
-title: CoderDojo本町7回目
+title: CoderDojo 7回目 @本町
 date: "2017-08-21T13:00:00Z"
 ---
 
