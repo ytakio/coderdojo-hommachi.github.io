@@ -1,5 +1,5 @@
 ---
-title: CoderDojo本町10回目
+title: CoderDojo 10回目 @本町
 date: "2018-02-18T13:00:00Z"
 ---
 

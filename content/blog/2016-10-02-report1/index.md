@@ -1,5 +1,5 @@
 ---
-title: CoderDojo本町1回目
+title: CoderDojo 1回目 @本町
 date: "2016-10-05T13:00:00Z"
 description: "10 月 2 日(日)、CoderDojo 本町の記念すべき 1 回目を開催しました！"
 ---
