@@ -4,7 +4,11 @@ const Footer = props => (
   <footer id="footer">
     <section>
       <h2>Supporter</h2>
-      <p>本町オープンソスラボ</p>
+      <p>
+        <a href="https://hommachi-open-source-lab.github.io/">
+          本町オープンソースラボ
+        </a>
+      </p>
     </section>
     <section>
       <h2>Donation</h2>

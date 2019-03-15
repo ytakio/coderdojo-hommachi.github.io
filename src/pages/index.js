@@ -79,17 +79,23 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style2 fa-gamepad" />
-                <h3>Scratch</h3>
+                <h3>
+                  <a href="https://scratch.mit.edu/">Scratch</a>
+                </h3>
                 <p>ゲーム や アニメーション</p>
               </li>
               <li>
                 <span className="icon major style1 fa-train" />
-                <h3>Ruby on Rails</h3>
+                <h3>
+                  <a href="https://rubyonrails.org/">Ruby on Rails</a>
+                </h3>
                 <p>Web アプリケーション</p>
               </li>
               <li>
                 <span className="icon major style5 fa-cogs" />
-                <h3>mruby</h3>
+                <h3>
+                  <a href="http://mruby.org/">mruby</a>
+                </h3>
                 <p>ブレッドボード で 電子工作</p>
               </li>
             </ul>
