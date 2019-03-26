@@ -3,12 +3,19 @@ import React from "react"
 const Footer = props => (
   <footer id="footer">
     <section>
-      <h2>Supporter</h2>
-      <p>
-        <a href="https://hommachi-open-source-lab.github.io/">
-          本町オープンソースラボ
-        </a>
-      </p>
+      <h2>Supporters</h2>
+      <ul className="supporters">
+        <li>
+          <a href="http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html">
+            大阪狭山市立 UPっぷ（世代間交流センター）
+          </a>
+        </li>
+        <li>
+          <a href="https://hommachi-open-source-lab.github.io/">
+            本町オープンソースラボ
+          </a>
+        </li>
+      </ul>
     </section>
     <section>
       <h2>Donation</h2>
