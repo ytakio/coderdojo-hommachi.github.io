@@ -1,4 +1,382 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 29 Dec 2019 13:48:52 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 27回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 27 回目 @大阪狭山 名の  メンター と 名の  ニンジャ  が集まりました。そして見学にも来てくれました。 会場は「 UP…]]></description><link>https://coderdojo-hommachi.github.io//blog/2019-10-27-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2019-10-27-report1/</guid><pubDate>Sun, 27 Oct 2019 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/98316&quot;&gt;子ども向けプログラミング道場：コーダー道場 27 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 29 Dec 2019 14:45:16 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 28回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 28 回目 @大阪狭山 名の  メンター と 名の  ニンジャ  が集まりました。そして見学にも来てくれました。 会場は「 UP…]]></description><link>https://coderdojo-hommachi.github.io//blog/2019-11-17-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2019-11-17-report1/</guid><pubDate>Sun, 17 Nov 2019 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/99531&quot;&gt;子ども向けプログラミング道場：コーダー道場 28 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt;と&lt;code class=&quot;language-text&quot;&gt;4&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。そして見学にも来てくれました。&lt;/p&gt;
+&lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 - 10:10 (10 min)&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 11:10 (60 min)&lt;/td&gt;
+&lt;td&gt;プログラミング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10 - 11:30 (20 min)&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30 - 11:50 (20 min)&lt;/td&gt;
+&lt;td&gt;プログラミングの続き&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:50 - 12:10 (20 min)&lt;/td&gt;
+&lt;td&gt;作品発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:10 - 12:30 (20 min)&lt;/td&gt;
+&lt;td&gt;クロージング &amp;#x26; 交流タイム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;レポート 📝&lt;/h2&gt;
+&lt;h3&gt;オープニング 🎉&lt;/h3&gt;
+&lt;p&gt;今回はプログラミングの他にビーズで遊べるコーナを企画しました。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/76a56777f028e96ca7ecbfc2dc0e5159/a4c27/IMG_6040.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABUzInUl//xAAbEAACAwADAAAAAAAAAAAAAAACAwEREgATFP/aAAgBAQABBQJWjPMWyMELAXHpC+5fP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8B1X//xAAbEAACAQUAAAAAAAAAAAAAAAAAAREQEiFBUf/aAAgBAQAGPwJ8RBFpsxT/xAAbEAADAQEAAwAAAAAAAAAAAAABESEAMUFhcf/aAAgBAQABPyEAMj5OMKscN00Cy3A6ZkdviwSyKfW//9oADAMBAAIAAwAAABCEz//EABgRAQADAQAAAAAAAAAAAAAAAAEAESHw/9oACAEDAQE/EEK2V1n/xAAXEQEBAQEAAAAAAAAAAAAAAAARACFR/9oACAECAQE/EFZLl//EABsQAQACAwEBAAAAAAAAAAAAAAERMQAhQVGh/9oACAEBAAE/EA0q47l5ruGrWFaTz5k+xCRTmDpSWHdW3J6ZBAkL3eP9Ad7z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6040&quot;
+        title=&quot;&quot;
+        src=&quot;/static/76a56777f028e96ca7ecbfc2dc0e5159/c739e/IMG_6040.jpg&quot;
+        srcset=&quot;/static/76a56777f028e96ca7ecbfc2dc0e5159/8ee9c/IMG_6040.jpg 148w,
+/static/76a56777f028e96ca7ecbfc2dc0e5159/ebbe7/IMG_6040.jpg 295w,
+/static/76a56777f028e96ca7ecbfc2dc0e5159/c739e/IMG_6040.jpg 590w,
+/static/76a56777f028e96ca7ecbfc2dc0e5159/5413e/IMG_6040.jpg 885w,
+/static/76a56777f028e96ca7ecbfc2dc0e5159/4efde/IMG_6040.jpg 1180w,
+/static/76a56777f028e96ca7ecbfc2dc0e5159/a4c27/IMG_6040.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;図工のみの参加もコーダー道場 大阪狭山ではあります。✂️🔖&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9557a436bf2016b5c79aeb0e9015ec4d/a4c27/IMG_6039.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGtZ2Gc3I//xAAZEAEBAAMBAAAAAAAAAAAAAAACAQAREgP/2gAIAQEAAQUC1ksx+Jqj7JO0lzf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABwQAAEDBQAAAAAAAAAAAAAAAAABEVEQEjFBkf/aAAgBAQAGPwLSTR7OKJBlhj//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMUFRcf/aAAgBAQABPyFuJHF8EfuVCL6AzqGLxuthNyB3/9oADAMBAAIAAwAAABBA3//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/ECP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QMr//xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhQVFxocH/2gAIAQEAAT8QqrK2kwnnsYQJKoWJ9nUCekJEzXlJvdsYhMBLwcgLkG+z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6039&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9557a436bf2016b5c79aeb0e9015ec4d/c739e/IMG_6039.jpg&quot;
+        srcset=&quot;/static/9557a436bf2016b5c79aeb0e9015ec4d/8ee9c/IMG_6039.jpg 148w,
+/static/9557a436bf2016b5c79aeb0e9015ec4d/ebbe7/IMG_6039.jpg 295w,
+/static/9557a436bf2016b5c79aeb0e9015ec4d/c739e/IMG_6039.jpg 590w,
+/static/9557a436bf2016b5c79aeb0e9015ec4d/5413e/IMG_6039.jpg 885w,
+/static/9557a436bf2016b5c79aeb0e9015ec4d/4efde/IMG_6039.jpg 1180w,
+/static/9557a436bf2016b5c79aeb0e9015ec4d/a4c27/IMG_6039.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;プログラミング&lt;/h3&gt;
+&lt;p&gt;参加者が少なくても自然と話ができる雰囲気がよいですね。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6591041b3409d92997811c3023b972da/a4c27/IMG_6038.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAXKRTLaQFf/EABoQAQEAAgMAAAAAAAAAAAAAAAECAAMEERP/2gAIAQEAAQUCaIl3SyXLhyNQPjWdZ//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAAhBxgf/aAAgBAQAGPwJqMDqxGigFK+5//8QAGxABAAICAwAAAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8hxEXqUQOrDUupcMnfMPtcFAJ//9oADAMBAAIAAwAAABBnL//EABYRAAMAAAAAAAAAAAAAAAAAABAhMf/aAAgBAwEBPxBaP//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/ELP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUFRobH/2gAIAQEAAT8QfE9ml9eMI6PQ8phSGAwol0Yj24FhcQ2il1ovW/uGIcGf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6038&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6591041b3409d92997811c3023b972da/c739e/IMG_6038.jpg&quot;
+        srcset=&quot;/static/6591041b3409d92997811c3023b972da/8ee9c/IMG_6038.jpg 148w,
+/static/6591041b3409d92997811c3023b972da/ebbe7/IMG_6038.jpg 295w,
+/static/6591041b3409d92997811c3023b972da/c739e/IMG_6038.jpg 590w,
+/static/6591041b3409d92997811c3023b972da/5413e/IMG_6038.jpg 885w,
+/static/6591041b3409d92997811c3023b972da/4efde/IMG_6038.jpg 1180w,
+/static/6591041b3409d92997811c3023b972da/a4c27/IMG_6038.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;図工&lt;/h3&gt;
+&lt;p&gt;ストライプのハート ❤️🧡💛💚💙💜&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f569deb877324df863d57e50d8d8d85b/a4c27/IMG_6043.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGii5Gh/8QAGRABAQEAAwAAAAAAAAAAAAAAAQACAxIh/9oACAEBAAEFAveWRLtqNuZ2Jf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/Aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAECExcf/aAAgBAQAGPwLhKoZV/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERIUFRYf/aAAgBAQABPyGM2JaEvQj2GVE8OIfA3Gf/2gAMAwEAAgADAAAAEHcv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/ENDa3//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxDBJ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMVGBkcH/2gAIAQEAAT8QSDErVvXmceoU1j1OCO2aE+kLofcR+r12sWXAGNT/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6043&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f569deb877324df863d57e50d8d8d85b/c739e/IMG_6043.jpg&quot;
+        srcset=&quot;/static/f569deb877324df863d57e50d8d8d85b/8ee9c/IMG_6043.jpg 148w,
+/static/f569deb877324df863d57e50d8d8d85b/ebbe7/IMG_6043.jpg 295w,
+/static/f569deb877324df863d57e50d8d8d85b/c739e/IMG_6043.jpg 590w,
+/static/f569deb877324df863d57e50d8d8d85b/5413e/IMG_6043.jpg 885w,
+/static/f569deb877324df863d57e50d8d8d85b/4efde/IMG_6043.jpg 1180w,
+/static/f569deb877324df863d57e50d8d8d85b/a4c27/IMG_6043.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;VU ライトを当てると光るビーズもあります 💖&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/df256b086fb83a8f02c7f52213543614/a4c27/IMG_6051.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABU5Q+WQDf/8QAGRAAAwADAAAAAAAAAAAAAAAAAAERAhIh/9oACAEBAAEFAtkXEfWxxkP/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFxEBAAMAAAAAAAAAAAAAAAAAEQEQE//aAAgBAgEBPwHOBa//xAAXEAADAQAAAAAAAAAAAAAAAAAAIDEh/9oACAEBAAY/AqVNP//EABsQAQACAgMAAAAAAAAAAAAAAAEAEUGBIVFh/9oACAEBAAE/IRTnSYCm4y5W+zMFRJ7DBVU//9oADAMBAAIAAwAAABCUP//EABURAQEAAAAAAAAAAAAAAAAAABBx/9oACAEDAQE/EJP/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAmP//EABwQAQEBAQACAwAAAAAAAAAAAAERACFRYYGR0f/aAAgBAQABPxAQHJYOH1qdC9/reCMUflgJRicrmCHTx7hLSUku/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6051&quot;
+        title=&quot;&quot;
+        src=&quot;/static/df256b086fb83a8f02c7f52213543614/c739e/IMG_6051.jpg&quot;
+        srcset=&quot;/static/df256b086fb83a8f02c7f52213543614/8ee9c/IMG_6051.jpg 148w,
+/static/df256b086fb83a8f02c7f52213543614/ebbe7/IMG_6051.jpg 295w,
+/static/df256b086fb83a8f02c7f52213543614/c739e/IMG_6051.jpg 590w,
+/static/df256b086fb83a8f02c7f52213543614/5413e/IMG_6051.jpg 885w,
+/static/df256b086fb83a8f02c7f52213543614/4efde/IMG_6051.jpg 1180w,
+/static/df256b086fb83a8f02c7f52213543614/a4c27/IMG_6051.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;プログラミングの続き&lt;/h3&gt;
+&lt;p&gt;音楽のプログラミングの挑戦しているニンジャは難しそうにしているのかも 🎼&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/199f867461fc76fa3620cd0d43ff1e44/a4c27/IMG_6044.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABXdIR7JOXP//EABoQAQADAQEBAAAAAAAAAAAAAAIAAQMREhP/2gAIAQEAAQUCSX0LN6dE0MrG++XP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oACAECAQE/AWq//8QAHBAAAQUAAwAAAAAAAAAAAAAAAAECESExUWGR/9oACAEBAAY/AqvoWsNJbS8ku0xPT//EABsQAAICAwEAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IaIMqDkVh0R8jtIZM4hDn2WWXBrV7H//2gAMAwEAAgADAAAAEBD/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBsf//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQIBAT8Q7AmDf//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExUYFh/9oACAEBAAE/EDSBCF2FtI8mIA1BnbdMdkLzHNwkREzf1K0S/ci3xwwXwHP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6044&quot;
+        title=&quot;&quot;
+        src=&quot;/static/199f867461fc76fa3620cd0d43ff1e44/c739e/IMG_6044.jpg&quot;
+        srcset=&quot;/static/199f867461fc76fa3620cd0d43ff1e44/8ee9c/IMG_6044.jpg 148w,
+/static/199f867461fc76fa3620cd0d43ff1e44/ebbe7/IMG_6044.jpg 295w,
+/static/199f867461fc76fa3620cd0d43ff1e44/c739e/IMG_6044.jpg 590w,
+/static/199f867461fc76fa3620cd0d43ff1e44/5413e/IMG_6044.jpg 885w,
+/static/199f867461fc76fa3620cd0d43ff1e44/4efde/IMG_6044.jpg 1180w,
+/static/199f867461fc76fa3620cd0d43ff1e44/a4c27/IMG_6044.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;作品発表&lt;/h3&gt;
+&lt;h4&gt;発表１&lt;/h4&gt;
+&lt;p&gt;はじめての Scratch のプログラミングで作った作品は、月でうさぎがジャンプします。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/87a8ff8ecc5dfcb162d99553ccc2ad26/a4c27/IMG_6046.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABmY7YZiwP/8QAGxABAAICAwAAAAAAAAAAAAAAAgABAxESEyP/2gAIAQEAAQUCxreW69OBl7pFpTuRn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAEEAgMAAAAAAAAAAAAAAAIAESExAQMQEkH/2gAIAQEABj8C2CVCh6zj3gjp7UQmdf/EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBMVH/2gAIAQEAAT8hEMcaNivY9eECMCVE23FHgt0V7F9019n/2gAMAwEAAgADAAAAEL8f/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8QR//EABcRAQADAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QXOP/xAAbEAEAAwEBAQEAAAAAAAAAAAABABExIWFBof/aAAgBAQABPxBGIGnyNV7OjF8na/2HAQZRLH8ZlbVS7spDgaxMyr2i5c//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6046&quot;
+        title=&quot;&quot;
+        src=&quot;/static/87a8ff8ecc5dfcb162d99553ccc2ad26/c739e/IMG_6046.jpg&quot;
+        srcset=&quot;/static/87a8ff8ecc5dfcb162d99553ccc2ad26/8ee9c/IMG_6046.jpg 148w,
+/static/87a8ff8ecc5dfcb162d99553ccc2ad26/ebbe7/IMG_6046.jpg 295w,
+/static/87a8ff8ecc5dfcb162d99553ccc2ad26/c739e/IMG_6046.jpg 590w,
+/static/87a8ff8ecc5dfcb162d99553ccc2ad26/5413e/IMG_6046.jpg 885w,
+/static/87a8ff8ecc5dfcb162d99553ccc2ad26/4efde/IMG_6046.jpg 1180w,
+/static/87a8ff8ecc5dfcb162d99553ccc2ad26/a4c27/IMG_6046.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;コーダー道場は初めての参加でしたが、発表までしてくれました。(餅を飛び越えるモーションがかわいい)&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cd120c41fafceefac931ab4a5f411fa1/a4c27/IMG_6049.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABszO4IHhf/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAIBAxESEyL/2gAIAQEAAQUCr9S9fEwV8OyZFzP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAEAAwEAAAAAAAAAAAAAAAAAEBExIf/aAAgBAQAGPwKlxxrX/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIXExQVH/2gAIAQEAAT8hRYB0nK9FSL62dDXjWaMUf//aAAwDAQACAAMAAAAQLA//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EEXll//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxAS2//EAB0QAQEBAAEFAQAAAAAAAAAAAAERAFEhMUFhcYH/2gAIAQEAAT8QNVFOcCZWFK7eNIY4zIDmsopLT3/MeuF+O//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6049&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cd120c41fafceefac931ab4a5f411fa1/c739e/IMG_6049.jpg&quot;
+        srcset=&quot;/static/cd120c41fafceefac931ab4a5f411fa1/8ee9c/IMG_6049.jpg 148w,
+/static/cd120c41fafceefac931ab4a5f411fa1/ebbe7/IMG_6049.jpg 295w,
+/static/cd120c41fafceefac931ab4a5f411fa1/c739e/IMG_6049.jpg 590w,
+/static/cd120c41fafceefac931ab4a5f411fa1/5413e/IMG_6049.jpg 885w,
+/static/cd120c41fafceefac931ab4a5f411fa1/4efde/IMG_6049.jpg 1180w,
+/static/cd120c41fafceefac931ab4a5f411fa1/a4c27/IMG_6049.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;クロージング&lt;/h3&gt;
+&lt;p&gt;ビーズ遊びも人気なので、図工だけの参加者も楽しめてそうです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6e256359d8b762b4c0680f427dc607f8/a4c27/IMG_6052.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.87603305785125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGlnA1J0f/EABkQAQACAwAAAAAAAAAAAAAAAAEAEAIRMf/aAAgBAQABBQKYox1XK//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAQADAQEAAAAAAAAAAAAAAAEAETEhEP/aAAgBAQABPyF2M7c78YwDBXn/2gAMAwEAAgADAAAAEFDf/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EIh//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAFxABAQEBAAAAAAAAAAAAAAAAAREAQf/aAAgBAQABPxB8aNCBjOYGaGGYZU1mq93/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6051&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6e256359d8b762b4c0680f427dc607f8/c739e/IMG_6052.jpg&quot;
+        srcset=&quot;/static/6e256359d8b762b4c0680f427dc607f8/8ee9c/IMG_6052.jpg 148w,
+/static/6e256359d8b762b4c0680f427dc607f8/ebbe7/IMG_6052.jpg 295w,
+/static/6e256359d8b762b4c0680f427dc607f8/c739e/IMG_6052.jpg 590w,
+/static/6e256359d8b762b4c0680f427dc607f8/5413e/IMG_6052.jpg 885w,
+/static/6e256359d8b762b4c0680f427dc607f8/4efde/IMG_6052.jpg 1180w,
+/static/6e256359d8b762b4c0680f427dc607f8/a4c27/IMG_6052.jpg 1210w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[CoderDojo 27回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 27 回目 @大阪狭山 名の  メンター と 名の  ニンジャ  が集まりました。そして見学にも来てくれました。 会場は「 UP…]]></description><link>https://coderdojo-hommachi.github.io//blog/2019-10-27-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2019-10-27-report1/</guid><pubDate>Sun, 27 Oct 2019 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/98316&quot;&gt;子ども向けプログラミング道場：コーダー道場 27 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt;と&lt;code class=&quot;language-text&quot;&gt;5&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。そして見学にも来てくれました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
