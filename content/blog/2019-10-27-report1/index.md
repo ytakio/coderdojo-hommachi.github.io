@@ -5,7 +5,7 @@ date: "2019-10-27T10:00:00Z"
 
 [子ども向けプログラミング道場：コーダー道場 27 回目 @大阪狭山](https://coderdojo-hommachi.doorkeeper.jp/events/98316)
 
-`3`名の **メンター**と`5`名の **ニンジャ** が集まりました。そして見学にも来てくれました。
+`3`名の **メンター**と`5`名の **ニンジャ** が集まりました。
 
 会場は「[UP っぷ（子育て支援・世代間交流センター）](http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html)」にて開催させていただきました
 
