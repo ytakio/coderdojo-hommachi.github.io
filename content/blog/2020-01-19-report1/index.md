@@ -3,7 +3,7 @@ title: CoderDojo 30回目@大阪狭山
 date: "2020-01-19T10:00:00Z"
 ---
 
-[子ども向けプログラミング道場：コーダー道場 28 回目 @大阪狭山](https://coderdojo-hommachi.doorkeeper.jp/events/99533)
+[子ども向けプログラミング道場：コーダー道場 30 回目 @大阪狭山](https://coderdojo-hommachi.doorkeeper.jp/events/99533)
 
 `2`名の **メンター**と`6`名の **ニンジャ** が集まりました。
 

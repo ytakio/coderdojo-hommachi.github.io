@@ -1,11 +1,11 @@
 ---
-title: CoderDojo 31回目@大阪狭山
+title: CoderDojo 32回目@大阪狭山
 date: "2020-02-16T10:00:00Z"
 ---
 
-[子ども向けプログラミング道場：コーダー道場 28 回目 @大阪狭山](https://coderdojo-hommachi.doorkeeper.jp/events/99534)
+[子ども向けプログラミング道場：コーダー道場 32 回目 @大阪狭山](https://coderdojo-hommachi.doorkeeper.jp/events/99534)
 
-`3`名の **メンター**と`10`名の **ニンジャ** が集まりました。
+`3`名の **メンター**と`7`名の **ニンジャ** が集まりました。
 
 会場は「[UP っぷ（子育て支援・世代間交流センター）](http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html)」にて開催させていただきました
 
