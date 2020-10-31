@@ -7,7 +7,7 @@ import Layout from "../components/layout"
 import Header from "../components/Header"
 import Nav from "../components/Nav"
 import pic01 from "../assets/images/pic01.png"
-import cat_flying_heart_face from "../assets/images/cat_flying_heart_face.svg"
+import cat_flying_heart_face from "../assets/images/cat_flying_heart_face_s.svg"
 
 class Index extends React.Component {
   constructor(props) {
@@ -34,7 +34,7 @@ class Index extends React.Component {
             {
               property: "og:image",
               content:
-                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/og.png",
+                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/og_s.png",
             },
           ]}
         />
@@ -56,7 +56,7 @@ class Index extends React.Component {
                   <h2>CoderDojo 大阪狭山・本町</h2>
                 </header>
                 <p>
-                  コーダー道場は子どものためのリラックスした、楽しいプログラミングクラブです！2011年にアイルランドで始まり、世界では110カ国・1,900の道場、日本では全国に176以上の道場があります。
+                  コーダー道場は子どものためのリラックスした、楽しいプログラミングクラブです！2011年にアイルランドで始まり、世界では110カ国・2,000の道場、日本では全国に218以上の道場があります。
                 </p>
                 <ul className="actions">
                   <li>
