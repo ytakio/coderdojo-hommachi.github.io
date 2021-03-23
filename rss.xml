@@ -1,4 +1,785 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Mar 2021 04:33:54 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 41回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 41 回目 @大阪狭山 名の  メンター  と 名の  ニンジャ  が集まりました。 会場は「 UP っぷ（子育て支援・世代間交流センター） 」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 1…]]></description><link>https://coderdojo-hommachi.github.io//blog/2021-02-21-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2021-02-21-report1/</guid><pubDate>Sun, 21 Feb 2021 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/117065&quot;&gt;子ども向けプログラミング道場：コーダー道場 41 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Mar 2021 14:22:21 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 42回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 42 回目 @大阪狭山 名の  メンター  と 名の  ニンジャ  が集まりました。 会場は「 UP っぷ（子育て支援・世代間交流センター） 」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 1…]]></description><link>https://coderdojo-hommachi.github.io//blog/2021-03-21-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2021-03-21-report1/</guid><pubDate>Sun, 21 Mar 2021 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/119129&quot;&gt;子ども向けプログラミング道場：コーダー道場 42 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
+&lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+&lt;p&gt;⏰&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 - 10:10 (10 min)&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 11:10 (60 min)&lt;/td&gt;
+&lt;td&gt;プログラミング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10 - 11:20 (10 min)&lt;/td&gt;
+&lt;td&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:20 - 12:00 (40 min)&lt;/td&gt;
+&lt;td&gt;プログラミングの続き&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:05 - 12:25 (20 min)&lt;/td&gt;
+&lt;td&gt;作品発表&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:25 - 12:30 (5 min)&lt;/td&gt;
+&lt;td&gt;クロージング &amp;#x26; 交流タイム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;レポート&lt;/h2&gt;
+&lt;h3&gt;オープニング&lt;/h3&gt;
+&lt;p&gt;春休みの開催と思っていたら、まだ春休みではなかったです。 🌸&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e11e18e9c8808647f085b3a7947d7b3c/e87ce/IMG_8424.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFsSnNWBWvMvEdIoH//xAAcEAACAwEAAwAAAAAAAAAAAAABAgADERIhMTL/2gAIAQEAAQUCwzkwnz0+WNYkwxGrDX2gGttR/a/Yn//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB0QAAICAQUAAAAAAAAAAAAAAAABIjEhAhIgMmH/2gAIAQEABj8Cooo7Cv0yiWqQ9ssCb4f/xAAbEAEAAwEBAQEAAAAAAAAAAAABABExIUFhUf/aAAgBAQABPyE+4j16y4uKSinT+1CEtEhZsF+cgqk0DD4hbKMbcsJ3XlTQ8mJ//9oADAMBAAIAAwAAABArzQz/xAAXEQADAQAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EDHf/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxBiK//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQVFhkbH/2gAIAQEAAT8QPSrr1OkBWriXVoMUtwBb75tihKQoY5KzjXkWIWb/AE9jae2eDVxa47WCsB3F99iiguzzMIH0uiYYT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8424&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e11e18e9c8808647f085b3a7947d7b3c/c739e/IMG_8424.jpg&quot;
+        srcset=&quot;/static/e11e18e9c8808647f085b3a7947d7b3c/8ee9c/IMG_8424.jpg 148w,
+/static/e11e18e9c8808647f085b3a7947d7b3c/ebbe7/IMG_8424.jpg 295w,
+/static/e11e18e9c8808647f085b3a7947d7b3c/c739e/IMG_8424.jpg 590w,
+/static/e11e18e9c8808647f085b3a7947d7b3c/5413e/IMG_8424.jpg 885w,
+/static/e11e18e9c8808647f085b3a7947d7b3c/e87ce/IMG_8424.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;この時期は慣れた参加者が多いので Scratch カードの出番は少ないかも。(来月から活躍の予感)&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e42cbcb9a4410d18da8f5f68908310c/e87ce/IMG_8423.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQBAgUD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHop8ZakqvNy90qSm//xAAcEAACAgIDAAAAAAAAAAAAAAAAAgEDEBESEyD/2gAIAQEAAQUCztzk5DMdykWpBuvx/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AXT/xAAaEAACAgMAAAAAAAAAAAAAAAAAEAIyICEx/9oACAEBAAY/Anp2Ol5Yf//EABwQAAMAAwADAAAAAAAAAAAAAAABERAhMVFxgf/aAAgBAQABPyFYg6aVFLYMLbjNa49HlvwbemiY/9oADAMBAAIAAwAAABBo6gz/xAAXEQADAQAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/ELiP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFR/9oACAECAQE/EFSq1//EAB4QAAMAAQQDAAAAAAAAAAAAAAABESEQMUFRYZGh/9oACAEBAAE/EEhM6G8CG7wJKCNXYQW3kUKomfLPwpzN2zItEUU4XoWoSdCSh//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8423&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0e42cbcb9a4410d18da8f5f68908310c/c739e/IMG_8423.jpg&quot;
+        srcset=&quot;/static/0e42cbcb9a4410d18da8f5f68908310c/8ee9c/IMG_8423.jpg 148w,
+/static/0e42cbcb9a4410d18da8f5f68908310c/ebbe7/IMG_8423.jpg 295w,
+/static/0e42cbcb9a4410d18da8f5f68908310c/c739e/IMG_8423.jpg 590w,
+/static/0e42cbcb9a4410d18da8f5f68908310c/5413e/IMG_8423.jpg 885w,
+/static/0e42cbcb9a4410d18da8f5f68908310c/e87ce/IMG_8423.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;プログラミング&lt;/h3&gt;
+&lt;p&gt;いろいろサポートしていたら写真を撮っていませんでした。 😣 (求フォトグラファーサポーター)&lt;/p&gt;
+&lt;h3&gt;作品発表&lt;/h3&gt;
+&lt;h4&gt;発表１&lt;/h4&gt;
+&lt;p&gt;メンターから来月以降の開催日の告知です。(半年毎に事業計画を申請するので、会場も半年先まで予約できています。)&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7802df4f7a57e29d0f647b77637e3d7/e87ce/DSC_1109.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFO0N5qQ8Vy9MoTUVD/xAAcEAACAQUBAAAAAAAAAAAAAAABAgADEBESEzH/2gAIAQEAAQUCxABYZZ9FmqxajCdWMJp3Pv8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQAQESECIDFRgf/aAAgBAQAGPwJW3Qm3jjxQRirGn//EAB0QAAMAAgIDAAAAAAAAAAAAAAABESExQWFxgeH/2gAIAQEAAT8h3cd7InU9EJDSyI6FD6OukXaXlQpXSXMyNPmEk3oiqwbj/9oADAMBAAIAAwAAABBI4cP/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8QdP/EABcRAAMBAAAAAAAAAAAAAAAAAAAQEWH/2gAIAQIBAT8QJqh//8QAHhABAAICAQUAAAAAAAAAAAAAAQARITFhQVFxgZH/2gAIAQEAAT8QQEBOgaYxVoWVa3txHPUKBELMUYKg4fqLtV4YURndCb3lmsAgUBxmbxHFi69S8IWVIAY0IUJ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;DSC_1109&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c7802df4f7a57e29d0f647b77637e3d7/c739e/DSC_1109.jpg&quot;
+        srcset=&quot;/static/c7802df4f7a57e29d0f647b77637e3d7/8ee9c/DSC_1109.jpg 148w,
+/static/c7802df4f7a57e29d0f647b77637e3d7/ebbe7/DSC_1109.jpg 295w,
+/static/c7802df4f7a57e29d0f647b77637e3d7/c739e/DSC_1109.jpg 590w,
+/static/c7802df4f7a57e29d0f647b77637e3d7/5413e/DSC_1109.jpg 885w,
+/static/c7802df4f7a57e29d0f647b77637e3d7/e87ce/DSC_1109.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;チラシは Adobe Illustrator で作成しています。今回から市のキャラクターの &lt;em&gt;さやりん&lt;/em&gt; が登場。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e20563adf9b6bd02a789c25aa64d02c7/e87ce/IMG_8426.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAUs7lUFkixGQRsmMH//EABwQAAEDBQAAAAAAAAAAAAAAAAABAhMQERIgIf/aAAgBAQABBQIcjaRESERwuhk3T//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ASP/xAAZEAACAwEAAAAAAAAAAAAAAAAAAREgMRL/2gAIAQEABj8CFy5rpqNVP//EAB8QAAEDAwUAAAAAAAAAAAAAABEAAZEQQVEgIWHR8f/aAAgBAQABPyFNd3kWFAF5TWDKHmUcEpme5e1o/9oADAMBAAIAAwAAABBwzIz/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDjZSZ//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAECAQE/EIo45//EAB4QAAMAAgIDAQAAAAAAAAAAAAABESExUYFBYZHR/9oACAEBAAE/EGhPTtcEJXw/g27Y+wy1WuciskdhwyjoMtHUn+cSUsIuERcI/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8426&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e20563adf9b6bd02a789c25aa64d02c7/c739e/IMG_8426.jpg&quot;
+        srcset=&quot;/static/e20563adf9b6bd02a789c25aa64d02c7/8ee9c/IMG_8426.jpg 148w,
+/static/e20563adf9b6bd02a789c25aa64d02c7/ebbe7/IMG_8426.jpg 295w,
+/static/e20563adf9b6bd02a789c25aa64d02c7/c739e/IMG_8426.jpg 590w,
+/static/e20563adf9b6bd02a789c25aa64d02c7/5413e/IMG_8426.jpg 885w,
+/static/e20563adf9b6bd02a789c25aa64d02c7/e87ce/IMG_8426.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表２&lt;/h4&gt;
+&lt;p&gt;Scratch のアクションゲームです。前回の子供達からのアドバイスがアレンジされています。 🗡🗡&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3c749df1cce729ff324f47525032ef7c/e87ce/DSC_1114.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAU5bRkahPDdOSuRK/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAxEQIRITMf/aAAgBAQABBQI0h7sq+UILAhIAnW1d0gIdrP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/ASP/xAAeEAACAQMFAAAAAAAAAAAAAAAAASECEjEQESBBgf/aAAgBAQAGPwLSEULst3lGRW4M+snh/8QAHRAAAwACAgMAAAAAAAAAAAAAAAERITEQUUFhcf/aAAgBAQABPyFKUq+kRpjvcHpCXOt8XoithCaINnZ5ISiP1saKpsxk4//aAAwDAQACAAMAAAAQ0NxN/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8QY//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxAjf//EABwQAQADAQEAAwAAAAAAAAAAAAEAESExQVGB8P/aAAgBAQABPxBFJU24bKvITFyN7RODUQ2tjX13Qv7yOBdImtYsq+D7iCS70RflIGOooJY7V+ZyKjaWpWziAXS7YgM//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;DSC_1114&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3c749df1cce729ff324f47525032ef7c/c739e/DSC_1114.jpg&quot;
+        srcset=&quot;/static/3c749df1cce729ff324f47525032ef7c/8ee9c/DSC_1114.jpg 148w,
+/static/3c749df1cce729ff324f47525032ef7c/ebbe7/DSC_1114.jpg 295w,
+/static/3c749df1cce729ff324f47525032ef7c/c739e/DSC_1114.jpg 590w,
+/static/3c749df1cce729ff324f47525032ef7c/5413e/DSC_1114.jpg 885w,
+/static/3c749df1cce729ff324f47525032ef7c/e87ce/DSC_1114.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;回復アイテムが出たり、猫が人になっていたりとバージョンアップしていました。 🍎🐱&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/404cfe9b1b32e8fc627d9f9ee91973fa/e87ce/DSC_1116.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAcil82REG5ncuZQ//8QAHBAAAwACAwEAAAAAAAAAAAAAAAECERIDECEx/9oACAEBAAEFAlrg8EkVUseptGHUqVyIn7XX/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHxAAAQMDBQAAAAAAAAAAAAAAAQAQEQIxMhIgYZGh/9oACAEBAAY/ArtkGNmgCeVGn1Y09bP/xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhEDGB0UFRcf/aAAgBAQABPyFp2r8YlkqpAybQnYv4VKHqKhT4VGiu++krY59AMQn/2gAMAwEAAgADAAAAEHsHjv/EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPxBnG//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEx/9oACAECAQE/EAE7MrJ//8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBYaFRcf/aAAgBAQABPxBBIdCw/rxH6QuGxLSnHkeFoI7hA5llGx1GkVYCpVpaF0nOIAmiurd9orNhi0V9gKQsqzABQT//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;DSC_1116&quot;
+        title=&quot;&quot;
+        src=&quot;/static/404cfe9b1b32e8fc627d9f9ee91973fa/c739e/DSC_1116.jpg&quot;
+        srcset=&quot;/static/404cfe9b1b32e8fc627d9f9ee91973fa/8ee9c/DSC_1116.jpg 148w,
+/static/404cfe9b1b32e8fc627d9f9ee91973fa/ebbe7/DSC_1116.jpg 295w,
+/static/404cfe9b1b32e8fc627d9f9ee91973fa/c739e/DSC_1116.jpg 590w,
+/static/404cfe9b1b32e8fc627d9f9ee91973fa/5413e/DSC_1116.jpg 885w,
+/static/404cfe9b1b32e8fc627d9f9ee91973fa/e87ce/DSC_1116.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表３&lt;/h4&gt;
+&lt;p&gt;Swift の iOS アプリです。 メモ帳を作り始めました。 📝&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8082e50e0e81ce517639d5e42f808d5b/e87ce/IMG_8432.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEAQIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAGKmGycwWJ5reVlaYJ//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAESIQMRMUH/2gAIAQEAAQUCx24rejC7JHCdDPT/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAWEAEBAQAAAAAAAAAAAAAAAAABIBH/2gAIAQEABj8CvEn/xAAdEAEAAgICAwAAAAAAAAAAAAABABEQITFxQVFh/9oACAEBAAE/IUcEstRcr8nSioD4eGdoWFIe5y72FYKu2P/aAAwDAQACAAMAAAAQnzx9/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBECH/2gAIAQMBAT8QWDJr/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQESFB/9oACAECAQE/ENIEtv/EAB0QAQEAAgIDAQAAAAAAAAAAAAERADEhURBBkWH/2gAIAQEAAT8QYIjhI4AayWesOn4xCVBWrfyZdO/oZvATT7gQJcWbBv0OI0BLLZgOeMoEr2+P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8432&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8082e50e0e81ce517639d5e42f808d5b/c739e/IMG_8432.jpg&quot;
+        srcset=&quot;/static/8082e50e0e81ce517639d5e42f808d5b/8ee9c/IMG_8432.jpg 148w,
+/static/8082e50e0e81ce517639d5e42f808d5b/ebbe7/IMG_8432.jpg 295w,
+/static/8082e50e0e81ce517639d5e42f808d5b/c739e/IMG_8432.jpg 590w,
+/static/8082e50e0e81ce517639d5e42f808d5b/5413e/IMG_8432.jpg 885w,
+/static/8082e50e0e81ce517639d5e42f808d5b/e87ce/IMG_8432.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;今回は完成しているガチャの紹介で、ダイアルをクリックするとランダムにキャラがでます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/de64cff0382900151d888e734cf98205/e87ce/IMG_8441.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHOletmMMcStvYQsiT/AP/EABoQAAICAwAAAAAAAAAAAAAAAAABAgMREhP/2gAIAQEAAQUCUTUwUJSr5w1bI2NLrMySSVYz/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BY//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ASn/xAAcEAEAAQQDAAAAAAAAAAAAAAABEAACIUEDETL/2gAIAQEABj8Cm5dViOhr0xxJszP/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhMVFh/9oACAEBAAE/IaHBfhsCNEtRDL0dm0n1GcyJ9FkJO30M6P/aAAwDAQACAAMAAAAQ0MTN/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxBwUef/xAAWEQEBAQAAAAAAAAAAAAAAAAAQIRH/2gAIAQIBAT8QwiH/xAAdEAADAQEAAgMAAAAAAAAAAAAAAREhMUFhcaGx/9oACAEBAAE/EHRn1RO7Wp+YOg1CMl2ZPghF7RyWXM4MV+EadPRxkvFpPQ6CvUol0cIy5//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8441&quot;
+        title=&quot;&quot;
+        src=&quot;/static/de64cff0382900151d888e734cf98205/c739e/IMG_8441.jpg&quot;
+        srcset=&quot;/static/de64cff0382900151d888e734cf98205/8ee9c/IMG_8441.jpg 148w,
+/static/de64cff0382900151d888e734cf98205/ebbe7/IMG_8441.jpg 295w,
+/static/de64cff0382900151d888e734cf98205/c739e/IMG_8441.jpg 590w,
+/static/de64cff0382900151d888e734cf98205/5413e/IMG_8441.jpg 885w,
+/static/de64cff0382900151d888e734cf98205/e87ce/IMG_8441.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;クロージング&lt;/h3&gt;
+&lt;p&gt;午後から同じ会場で図工のイベントを開催しました。(コーダー道場の参加者も何人かいたのでお帰りという感じ)&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e6b3891a63f351343ca9d508271f32d9/e87ce/IMG_8455.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.36653386454182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABZWayyAMRoZsNFFf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQITAzESQUP/2gAIAQEAAQUCOixIlkSjYieOPHRaea0f/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHxAAAgAFBQAAAAAAAAAAAAAAAAEQESEiMQIycYGR/9oACAEBAAY/AjELtPgrZmwmlUmslUnyjqP/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMRBRcWH/2gAIAQEAAT8hu5Zhte74EANpcIGozUK9HxhsaN+Twx9V3kgWxzxkn//aAAwDAQACAAMAAAAQcAmM/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EIOz/8QAIBABAAIBBAIDAAAAAAAAAAAAAQARITFBUWFxgaGxwf/aAAgBAQABPxBdjjeWfSquKlm8KsxaHW8awsA06tNbxuXYD9qV/NFHw8SgdpYpBZ5LAKyBV22uImQW0H1P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8455&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e6b3891a63f351343ca9d508271f32d9/c739e/IMG_8455.jpg&quot;
+        srcset=&quot;/static/e6b3891a63f351343ca9d508271f32d9/8ee9c/IMG_8455.jpg 148w,
+/static/e6b3891a63f351343ca9d508271f32d9/ebbe7/IMG_8455.jpg 295w,
+/static/e6b3891a63f351343ca9d508271f32d9/c739e/IMG_8455.jpg 590w,
+/static/e6b3891a63f351343ca9d508271f32d9/5413e/IMG_8455.jpg 885w,
+/static/e6b3891a63f351343ca9d508271f32d9/e87ce/IMG_8455.jpg 1004w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;作品&lt;/h4&gt;
+&lt;p&gt;コーダー道場のロゴは勾玉巴という和柄に似ているので、アクセサリー作りを企画しました。 ☯️&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/59692141b9d4d83060b10fae1d047203/abfd9/IMG_8449.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3nCTSFtQIB//xAAZEAEAAwEBAAAAAAAAAAAAAAABAAMQAhL/2gAIAQEAAQUCgjiSuvz3Hf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAQEBAAAAAAAAAAAAAAAAAAEgEf/aAAgBAQAGPwKF2f/EABoQAQACAwEAAAAAAAAAAAAAAAEAERAgMSH/2gAIAQEAAT8hnARrFhU9ZInNFz//2gAMAwEAAgADAAAAELzPvP/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxBWkx//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxACM//EABwQAAMAAQUAAAAAAAAAAAAAAAABERAhMUFRcf/aAAgBAQABPxDYo8YcdhBjOwzSoE3uEVG4Uf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8449&quot;
+        title=&quot;&quot;
+        src=&quot;/static/59692141b9d4d83060b10fae1d047203/c739e/IMG_8449.jpg&quot;
+        srcset=&quot;/static/59692141b9d4d83060b10fae1d047203/8ee9c/IMG_8449.jpg 148w,
+/static/59692141b9d4d83060b10fae1d047203/ebbe7/IMG_8449.jpg 295w,
+/static/59692141b9d4d83060b10fae1d047203/c739e/IMG_8449.jpg 590w,
+/static/59692141b9d4d83060b10fae1d047203/5413e/IMG_8449.jpg 885w,
+/static/59692141b9d4d83060b10fae1d047203/4efde/IMG_8449.jpg 1180w,
+/static/59692141b9d4d83060b10fae1d047203/abfc3/IMG_8449.jpg 1770w,
+/static/59692141b9d4d83060b10fae1d047203/abfd9/IMG_8449.jpg 2632w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/951b05cf4e6f613b8f5ab1f4221d4ce7/a2b3c/IMG_8450.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHo0nXw5EtF6hA3/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIDECAx/9oACAEBAAEFArPI1KjH/8QAFREBAQAAAAAAAAAAAAAAAAAAIEH/2gAIAQMBAT8Bg//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/AWP/xAAVEAEBAAAAAAAAAAAAAAAAAAAgIf/aAAgBAQAGPwIU/wD/xAAYEAEBAQEBAAAAAAAAAAAAAAABABEQIf/aAAgBAQABPyGbb2gc2xzGye//2gAMAwEAAgADAAAAEE/AvP/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxACm4//xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQIBAT8QSJDH/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAQRAhUf/aAAgBAQABPxByGxGfHKuDeAQTm9VpSnTmcfn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8450&quot;
+        title=&quot;&quot;
+        src=&quot;/static/951b05cf4e6f613b8f5ab1f4221d4ce7/c739e/IMG_8450.jpg&quot;
+        srcset=&quot;/static/951b05cf4e6f613b8f5ab1f4221d4ce7/8ee9c/IMG_8450.jpg 148w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/ebbe7/IMG_8450.jpg 295w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/c739e/IMG_8450.jpg 590w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/5413e/IMG_8450.jpg 885w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/4efde/IMG_8450.jpg 1180w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/abfc3/IMG_8450.jpg 1770w,
+/static/951b05cf4e6f613b8f5ab1f4221d4ce7/a2b3c/IMG_8450.jpg 2845w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/98650d69e8bc61c855f05e41b511efc9/cbca1/IMG_8451.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB2QpDQgNvI0Av/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAEBEg/9oACAEBAAEFAsEdUdmIZ8//xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAwEBPwGj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGBAAAgMAAAAAAAAAAAAAAAAAABARICH/2gAIAQEABj8CMUW//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETFR/9oACAEBAAE/IaNAnFl0bGw0hx//2gAMAwEAAgADAAAAEGj4Q//EABcRAQADAAAAAAAAAAAAAAAAAAERICH/2gAIAQMBAT8QVgBlP//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAgEBPxAguXP/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAQMUFR/9oACAEBAAE/EIC4ViHx4e3Ilzos8KPZ4cC8wNN//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8451&quot;
+        title=&quot;&quot;
+        src=&quot;/static/98650d69e8bc61c855f05e41b511efc9/c739e/IMG_8451.jpg&quot;
+        srcset=&quot;/static/98650d69e8bc61c855f05e41b511efc9/8ee9c/IMG_8451.jpg 148w,
+/static/98650d69e8bc61c855f05e41b511efc9/ebbe7/IMG_8451.jpg 295w,
+/static/98650d69e8bc61c855f05e41b511efc9/c739e/IMG_8451.jpg 590w,
+/static/98650d69e8bc61c855f05e41b511efc9/5413e/IMG_8451.jpg 885w,
+/static/98650d69e8bc61c855f05e41b511efc9/4efde/IMG_8451.jpg 1180w,
+/static/98650d69e8bc61c855f05e41b511efc9/abfc3/IMG_8451.jpg 1770w,
+/static/98650d69e8bc61c855f05e41b511efc9/cbca1/IMG_8451.jpg 2951w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b6a74d9adb16e50417bf5db417ded726/b47a7/IMG_8452.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAejDBJsCWoAP/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAEBEg/9oACAEBAAEFAtm2qEPx/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhABAQEAAAAAAAAAAAAAAAAAASAR/9oACAEBAAY/Ao1Z/8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAECExQf/aAAgBAQABPyGEOjRDCh7icpx1/9oADAMBAAIAAwAAABCH/wD/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxBUkMf/xAAWEQADAAAAAAAAAAAAAAAAAAABICH/2gAIAQIBAT8QFT//xAAaEAEBAAIDAAAAAAAAAAAAAAABABARQVFh/9oACAEBAAE/EBBCUBTpwarmJAkQHtuVbW2//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8452&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b6a74d9adb16e50417bf5db417ded726/c739e/IMG_8452.jpg&quot;
+        srcset=&quot;/static/b6a74d9adb16e50417bf5db417ded726/8ee9c/IMG_8452.jpg 148w,
+/static/b6a74d9adb16e50417bf5db417ded726/ebbe7/IMG_8452.jpg 295w,
+/static/b6a74d9adb16e50417bf5db417ded726/c739e/IMG_8452.jpg 590w,
+/static/b6a74d9adb16e50417bf5db417ded726/5413e/IMG_8452.jpg 885w,
+/static/b6a74d9adb16e50417bf5db417ded726/4efde/IMG_8452.jpg 1180w,
+/static/b6a74d9adb16e50417bf5db417ded726/abfc3/IMG_8452.jpg 1770w,
+/static/b6a74d9adb16e50417bf5db417ded726/b47a7/IMG_8452.jpg 2891w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e788820f935efd090f55cb4d51b5150/c2b56/IMG_8453.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAejDYrRK3GYgCP/EABoQAAICAwAAAAAAAAAAAAAAAAECABASIDL/2gAIAQEAAQUCMRsxS9af/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BI//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAICAwAAAAAAAAAAAAAAAAERAAIQEiD/2gAIAQEABj8CcedRVVHP/8QAGhABAQEAAwEAAAAAAAAAAAAAAQARECExYf/aAAgBAQABPyFgK8IcAh9ss07mnEB8tbW//9oADAMBAAIAAwAAABDP13//xAAXEQEAAwAAAAAAAAAAAAAAAAABESAx/9oACAEDAQE/EBLJlP/EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAgEBPxCBP//EABsQAQEBAAIDAAAAAAAAAAAAAAEAETFhIVFx/9oACAEBAAE/EGZwFXqRjDh7RUIDR5GWvA4u+PkEsjtzd1//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8453&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0e788820f935efd090f55cb4d51b5150/c739e/IMG_8453.jpg&quot;
+        srcset=&quot;/static/0e788820f935efd090f55cb4d51b5150/8ee9c/IMG_8453.jpg 148w,
+/static/0e788820f935efd090f55cb4d51b5150/ebbe7/IMG_8453.jpg 295w,
+/static/0e788820f935efd090f55cb4d51b5150/c739e/IMG_8453.jpg 590w,
+/static/0e788820f935efd090f55cb4d51b5150/5413e/IMG_8453.jpg 885w,
+/static/0e788820f935efd090f55cb4d51b5150/4efde/IMG_8453.jpg 1180w,
+/static/0e788820f935efd090f55cb4d51b5150/abfc3/IMG_8453.jpg 1770w,
+/static/0e788820f935efd090f55cb4d51b5150/c2b56/IMG_8453.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/94b32db14431f190e3b47cd91250354c/59ac1/IMG_8454.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6NYyxsAkior/xAAbEAACAQUAAAAAAAAAAAAAAAABAgMAEBESIP/aAAgBAQABBQKsg2YbLFEytx//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAEAAgMAAAAAAAAAAAAAAAABABARICH/2gAIAQEABj8CnGkmV1//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSAhcf/aAAgBAQABPyGGoPmHEasmpIOjj//aAAwDAQACAAMAAAAQT9j9/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREgUf/aAAgBAwEBPxAix5j/xAAWEQEBAQAAAAAAAAAAAAAAAAARASD/2gAIAQIBAT8QIOP/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQIVEg/9oACAEBAAE/ENBbG0TOrxcEVDyUuaAN+F3P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8454&quot;
+        title=&quot;&quot;
+        src=&quot;/static/94b32db14431f190e3b47cd91250354c/c739e/IMG_8454.jpg&quot;
+        srcset=&quot;/static/94b32db14431f190e3b47cd91250354c/8ee9c/IMG_8454.jpg 148w,
+/static/94b32db14431f190e3b47cd91250354c/ebbe7/IMG_8454.jpg 295w,
+/static/94b32db14431f190e3b47cd91250354c/c739e/IMG_8454.jpg 590w,
+/static/94b32db14431f190e3b47cd91250354c/5413e/IMG_8454.jpg 885w,
+/static/94b32db14431f190e3b47cd91250354c/4efde/IMG_8454.jpg 1180w,
+/static/94b32db14431f190e3b47cd91250354c/abfc3/IMG_8454.jpg 1770w,
+/static/94b32db14431f190e3b47cd91250354c/59ac1/IMG_8454.jpg 2647w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f49086c02e8351ac697d7b43c99842db/ab8fb/IMG_8460.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB3xGfLalXOkAf/8QAGxABAAICAwAAAAAAAAAAAAAAAQMRAAIQEiD/2gAIAQEAAQUCvOw8JZpGknj/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAABBQAAAAAAAAAAAAAAAAAAEBEgMUH/2gAIAQEABj8CLV8j/8QAGRABAAIDAAAAAAAAAAAAAAAAAQARECAx/9oACAEBAAE/IawYgFJeITc01//aAAwDAQACAAMAAAAQeNj/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEhIP/aAAgBAwEBPxBhMf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABwQAQABBQEBAAAAAAAAAAAAAAERABAhMWFRgf/aAAgBAQABPxB9q3cgByWYAzyd0xEGATK8+XLf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8460&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f49086c02e8351ac697d7b43c99842db/c739e/IMG_8460.jpg&quot;
+        srcset=&quot;/static/f49086c02e8351ac697d7b43c99842db/8ee9c/IMG_8460.jpg 148w,
+/static/f49086c02e8351ac697d7b43c99842db/ebbe7/IMG_8460.jpg 295w,
+/static/f49086c02e8351ac697d7b43c99842db/c739e/IMG_8460.jpg 590w,
+/static/f49086c02e8351ac697d7b43c99842db/5413e/IMG_8460.jpg 885w,
+/static/f49086c02e8351ac697d7b43c99842db/4efde/IMG_8460.jpg 1180w,
+/static/f49086c02e8351ac697d7b43c99842db/abfc3/IMG_8460.jpg 1770w,
+/static/f49086c02e8351ac697d7b43c99842db/ab8fb/IMG_8460.jpg 2633w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6a4895860a5c68cfefe3cd58a42c153a/c2b56/IMG_8461.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEEAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd/n1kw3I0lICv/EABoQAAICAwAAAAAAAAAAAAAAAAECAAMQEyD/2gAIAQEAAQUCgdWwYtZ28f/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEDAQE/AWP/xAAWEQEBAQAAAAAAAAAAAAAAAAARICH/2gAIAQIBAT8BdI//xAAaEAABBQEAAAAAAAAAAAAAAAABABARICEx/9oACAEBAAY/AlheeCv/xAAaEAEBAAIDAAAAAAAAAAAAAAABEQAQICEx/9oACAEBAAE/IVmMQ10adYIEh7x//9oADAMBAAIAAwAAABBD2P3/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8QoKY//8QAGBEAAgMAAAAAAAAAAAAAAAAAASAhMVH/2gAIAQIBAT8QJVRqf//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFRIEFx/9oACAEBAAE/ECFrRHpNlBzBxH3rutx8iFt35x//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8461&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6a4895860a5c68cfefe3cd58a42c153a/c739e/IMG_8461.jpg&quot;
+        srcset=&quot;/static/6a4895860a5c68cfefe3cd58a42c153a/8ee9c/IMG_8461.jpg 148w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/ebbe7/IMG_8461.jpg 295w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/c739e/IMG_8461.jpg 590w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/5413e/IMG_8461.jpg 885w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/4efde/IMG_8461.jpg 1180w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/abfc3/IMG_8461.jpg 1770w,
+/static/6a4895860a5c68cfefe3cd58a42c153a/c2b56/IMG_8461.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a0f01661a6e47e17015770d1997f21c2/c2b56/IMG_8464.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHfLLJtSXvQgH//xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDEBMh/9oACAEBAAEFAhUmx+k4667Z/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASP/xAAZEAABBQAAAAAAAAAAAAAAAAARAAEQEiD/2gAIAQEABj8CQM2fP//EABoQAAIDAQEAAAAAAAAAAAAAAAABEBEhMVH/2gAIAQEAAT8hbKA15C0NixDc9H//2gAMAwEAAgADAAAAEM/IQf/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxBJJj//xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQIBAT8QA24//8QAGxABAAICAwAAAAAAAAAAAAAAAQAREDFBUWH/2gAIAQEAAT8QALWJQJLeUuPSd3KMRoB35KHBg//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8464&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a0f01661a6e47e17015770d1997f21c2/c739e/IMG_8464.jpg&quot;
+        srcset=&quot;/static/a0f01661a6e47e17015770d1997f21c2/8ee9c/IMG_8464.jpg 148w,
+/static/a0f01661a6e47e17015770d1997f21c2/ebbe7/IMG_8464.jpg 295w,
+/static/a0f01661a6e47e17015770d1997f21c2/c739e/IMG_8464.jpg 590w,
+/static/a0f01661a6e47e17015770d1997f21c2/5413e/IMG_8464.jpg 885w,
+/static/a0f01661a6e47e17015770d1997f21c2/4efde/IMG_8464.jpg 1180w,
+/static/a0f01661a6e47e17015770d1997f21c2/abfc3/IMG_8464.jpg 1770w,
+/static/a0f01661a6e47e17015770d1997f21c2/c2b56/IMG_8464.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/72d369abe0613d8752aa48d892e86f09/c2b56/IMG_8465.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBA//EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABo80/JqNK0AH/xAAaEAACAgMAAAAAAAAAAAAAAAACAwABEiAh/9oACAEBAAEFAr5BYJXGjkCknR6f/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABkQAQACAwAAAAAAAAAAAAAAAAEAECAhQf/aAAgBAQAGPwKaaSC8x//EABgQAQEBAQEAAAAAAAAAAAAAAAERABBB/9oACAEBAAE/IUCrDQ13kJ9xiQ9aZ7//2gAMAwEAAgADAAAAEJ/gAP/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAwEBPxBJIY//xAAWEQADAAAAAAAAAAAAAAAAAAABIGH/2gAIAQIBAT8QFT//xAAdEAACAgEFAAAAAAAAAAAAAAAAARExIRBBUWFx/9oACAEBAAE/EGhJClt7EIliXPhkbZEgkYSXLL60WKJP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8465&quot;
+        title=&quot;&quot;
+        src=&quot;/static/72d369abe0613d8752aa48d892e86f09/c739e/IMG_8465.jpg&quot;
+        srcset=&quot;/static/72d369abe0613d8752aa48d892e86f09/8ee9c/IMG_8465.jpg 148w,
+/static/72d369abe0613d8752aa48d892e86f09/ebbe7/IMG_8465.jpg 295w,
+/static/72d369abe0613d8752aa48d892e86f09/c739e/IMG_8465.jpg 590w,
+/static/72d369abe0613d8752aa48d892e86f09/5413e/IMG_8465.jpg 885w,
+/static/72d369abe0613d8752aa48d892e86f09/4efde/IMG_8465.jpg 1180w,
+/static/72d369abe0613d8752aa48d892e86f09/abfc3/IMG_8465.jpg 1770w,
+/static/72d369abe0613d8752aa48d892e86f09/c2b56/IMG_8465.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5bb829b697f06974842e23ca300670c7/c2b56/IMG_8468.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7qaUk0CzAQD/xAAbEAABBAMAAAAAAAAAAAAAAAABAAIQERIgIf/aAAgBAQABBQIrNoMV3T//xAAVEQEBAAAAAAAAAAAAAAAAAAAgIf/aAAgBAwEBPwGj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhABAQEAAAAAAAAAAAAAAAAAEQAw/9oACAEBAAY/AocP/8QAGxABAAICAwAAAAAAAAAAAAAAAQARECEgQYH/2gAIAQEAAT8hQFuiIL2cJcp094//2gAMAwEAAgADAAAAEPcAQP/EABYRAQEBAAAAAAAAAAAAAAAAAAEgMf/aAAgBAwEBPxBFkf/EABcRAAMBAAAAAAAAAAAAAAAAAAERIEH/2gAIAQIBAT8QC2P/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAQITFB/9oACAEBAAE/EKZA+uJEeROJo46rcjRe9cuXj//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_8468&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5bb829b697f06974842e23ca300670c7/c739e/IMG_8468.jpg&quot;
+        srcset=&quot;/static/5bb829b697f06974842e23ca300670c7/8ee9c/IMG_8468.jpg 148w,
+/static/5bb829b697f06974842e23ca300670c7/ebbe7/IMG_8468.jpg 295w,
+/static/5bb829b697f06974842e23ca300670c7/c739e/IMG_8468.jpg 590w,
+/static/5bb829b697f06974842e23ca300670c7/5413e/IMG_8468.jpg 885w,
+/static/5bb829b697f06974842e23ca300670c7/4efde/IMG_8468.jpg 1180w,
+/static/5bb829b697f06974842e23ca300670c7/abfc3/IMG_8468.jpg 1770w,
+/static/5bb829b697f06974842e23ca300670c7/c2b56/IMG_8468.jpg 3024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;図工イベントの参加者にチラシを配れたので、コーダー道場にも来てくれると嬉しいな。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CoderDojo 41回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 41 回目 @大阪狭山 名の  メンター  と 名の  ニンジャ  が集まりました。 会場は「 UP っぷ（子育て支援・世代間交流センター） 」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 1…]]></description><link>https://coderdojo-hommachi.github.io//blog/2021-02-21-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io//blog/2021-02-21-report1/</guid><pubDate>Sun, 21 Feb 2021 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/117065&quot;&gt;子ども向けプログラミング道場：コーダー道場 41 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール&lt;/h2&gt;
