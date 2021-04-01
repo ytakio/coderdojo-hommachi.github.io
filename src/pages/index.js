@@ -6,7 +6,7 @@ import Waypoint from "react-waypoint"
 import Layout from "../components/layout"
 import Header from "../components/Header"
 import Nav from "../components/Nav"
-import pic01 from "../assets/images/pic01.png"
+import ScratchCat from "../assets/images/scratch-cat.png"
 import cat_flying_heart_face from "../assets/images/cat_flying_heart_face_s.svg"
 
 class Index extends React.Component {
@@ -29,16 +29,16 @@ class Index extends React.Component {
     return (
       <Layout>
         <Helmet
-          title={"CoderDojo Osakasayama / Hommachi"}
+          title={"CoderDojo Higashi-Sumiyoshi"}
           meta={[
             {
               property: "og:image",
               content:
-                "https://raw.githubusercontent.com/coderdojo-hommachi/coderdojo-hommachi.github.io/develop/src/assets/images/og_s.png",
+                "https://raw.githubusercontent.com/coderdojo-higashi-sumiyoshi/coderdojo-higashi-sumiyoshi.github.io/develop/src/assets/images/og_s.png",
             },
           ]}
         />
-        <Helmet title="CoderDojo Osakasayama / Hommachi" />
+        <Helmet title="CoderDojo Higashi-Sumiyoshi" />
 
         <Header />
 
@@ -53,7 +53,7 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>CoderDojo 大阪狭山・本町</h2>
+                  <h2>CoderDojo 東住吉</h2>
                 </header>
                 <p>
                   コーダー道場は子どものためのリラックスした、楽しいプログラミングクラブです！2011年にアイルランドで始まり、世界では110カ国・2,000の道場、日本では全国に218以上の道場があります。
@@ -67,7 +67,7 @@ class Index extends React.Component {
                 </ul>
               </div>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={ScratchCat} alt="" />
               </span>
             </div>
           </section>
@@ -115,7 +115,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <a
-                    href="https://coderdojo-hommachi.doorkeeper.jp/"
+                    href="https://coderdojo-higashi-sumiyoshi.doorkeeper.jp/"
                     className="button special"
                   >
                     <span className="label">Event</span>
@@ -139,7 +139,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <Link to="/blog" className="button special">
-                    Blog
+                    にっき
                   </Link>
                 </li>
               </ul>

@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import HeaderSide from "../components/HeaderSide"
-import pic04 from "../assets/images/pic04.png"
+import face_image from "../assets/images/cat_flying_heart_face.svg"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
@@ -23,7 +23,7 @@ class BlogIndex extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main">
-              <img src={pic04} alt="" />
+              <img src={face_image} alt="" />
             </span>
             <h2>Blog</h2>
             {posts

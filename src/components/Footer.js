@@ -56,7 +56,8 @@ const Footer = props => (
     </section>
     <p className="copyright">
       &copy; CoderDojo Osakasayama / Hommachi. Design:{" "}
-      <a href="https://html5up.net">HTML5 UP</a>.
+      <a href="https://html5up.net">HTML5 UP</a>.<br/>
+      &copy; CoderDojo Higashi-Sumiyoshi
     </p>
   </footer>
 )

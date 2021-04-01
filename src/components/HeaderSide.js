@@ -11,7 +11,7 @@ const HeaderGeneric = props => (
         &nbsp;CoderDojo
       </h1>
     </Link>
-    <p>Osakasayama / Hommachi</p>
+    <p>Higashi-Sumiyoshi</p>
   </header>
 )
 
