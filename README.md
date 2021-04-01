@@ -1,4 +1,4 @@
-# CoderDojo Osakasayama / Hommachi Pages
+# CoderDojo Higashi-Sumiyoshi Pages
 
 ## Installation
 
